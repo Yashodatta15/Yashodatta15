@@ -32,29 +32,27 @@
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2307405e.svg?style=flat&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=OpenCV&logoColor=5C3EE8)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+
 
 
 
 ###  &nbsp; 👀 Stats: 
-<div align="center">
-  <b><em>GitHub Stats:</em></b>
+
 </div>
 
-<div align="center">
+<div align="left">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashodatta15&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashodatta15&theme=tokyonight)](https://git.io/streak-stats)
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashodatta15&show_icons=true&locale=en&theme=tokyonight" alt="yashodatta15" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashodatta15&langs_count=8)](https://github.com/Yashodatta15/github-readme-stats)
 </div>
 
