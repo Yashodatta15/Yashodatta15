@@ -43,7 +43,9 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=OpenCV&logoColor=5C3EE8)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
-
+![Hadoop](https://img.shields.io/badge/Hadoop-%23F7DC1B.svg?style=flat&logo=Apache%20Hadoop&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=Power%20BI&logoColor=white)
 
 
 
