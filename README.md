@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I am creative**
 
+- 📚 Projects **Welcome to my portfolio, where I showcase my [projects]**
+
 <h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me:</h3>
 
 <a href="mailto:patilyashodatta1999@gmail.com">![patilyashodatta1999@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
