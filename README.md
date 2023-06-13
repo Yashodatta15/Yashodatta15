@@ -2,7 +2,17 @@
 
 <h1 align="center">Hi there,I am Yashodatta <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" /></h1>
 
-<h3 align="center">Aspiring Data Science and Analytics </h3>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+scientist+and+analyst;DS%20|%20ML%20|%20AI%20Enthusiastic;Always+learning+new+things&center=true&height=45"   alt="Typing SVG" /></a>
+</p>
+
+
+
+
+
+
 
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
