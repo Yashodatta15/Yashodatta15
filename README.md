@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **I am creative**
 
-- 📚 Projects **Welcome to my portfolio, where I showcase my [projects](https://github.com/Yashodatta15/Project_Portfolio/blob/main/README.md)**
+- 📚 Projects **Welcome to my portfolio, where I showcase my [projects](https://github.com/Yashodatta15/Project_Portfolio/tree/main)**
 
 <h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me:</h3>
 
