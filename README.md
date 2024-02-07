@@ -21,11 +21,11 @@
 <h3 align="left">:alien: About Me:  </h3>
 
 
-- 🔭 I’m currently working on **Supervised learning**
+- 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Python , My SQL**
+- 💬 Ask me about **Python , My SQL , Machine Learning , PowerBI**
 
 - 📫 How to reach me **patilyashodatt1999@gmail.com**
 
