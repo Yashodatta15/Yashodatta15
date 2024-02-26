@@ -21,15 +21,15 @@
 <h3 align="left">:alien: About Me:  </h3>
 
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Machine \ Deep learning**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **MLoop**
 
 - 💬 Ask me about **Python , My SQL , Machine Learning , PowerBI**
 
 - 📫 How to reach me **patilyashodatt1999@gmail.com**
 
-- ⚡ Fun fact **I am creative**
+
 
 - 📚 Projects **Welcome to my portfolio, where I showcase my [projects](https://github.com/Yashodatta15/Project_Portfolio/tree/main)**
 
