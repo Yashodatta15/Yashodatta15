@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Machine \ Deep learning**
 
-- 🌱 I’m currently learning **LLM & LLM2**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **Python , My SQL , Machine Learning , PowerBI**
 
