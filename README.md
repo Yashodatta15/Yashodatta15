@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
 
-<h1 align="center">Hi there,I am Yashodatta <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" /></h1>
+<h1 align="center">Hi there,I am Yashodatta  👋
+</h1>
 
 
 
