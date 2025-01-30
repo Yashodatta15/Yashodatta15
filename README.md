@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **Machine \ Deep learning**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **Python , My SQL , Machine Learning , PowerBI**
 
