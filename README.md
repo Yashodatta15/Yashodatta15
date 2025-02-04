@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+scientist+and+analyst;DS%20|%20ML%20|%20AI%20Enthusiastic;Always+learning+new+things&center=true&height=45"   alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+scientist+and+analyst;DA%20|%20ML%20|%20AI%20Enthusiastic;Always+learning+new+things&center=true&height=45"   alt="Typing SVG" /></a>
 </p>
 
 
