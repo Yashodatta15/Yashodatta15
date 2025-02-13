@@ -1,70 +1,47 @@
-![MasterHead](https://user-images.githubusercontent.com/89390696/197391947-44073cab-ffa1-4f6f-b0e9-a541afc7254a.gif)
-
-<h1 align="center">Hi there,I am Yashodatta  👋
-</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste), I'm Yash! </a>  </h2>
 
 
+</em></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+scientist+and+analyst;DA%20|%20ML%20|%20AI%20Enthusiastic;Always+learning+new+things&center=true&height=45"   alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+scientist+and+analyst;DA%20|%20ML%20|%20AI%20|%20DL%20;Always+learning+new+things&center=true&height=45"   alt="Typing SVG" /></a>
 </p>
-
-
-
-
-
-
 
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- <img alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" /> &nbsp;  I’m currently working on **Machine \ Deep learning**. <br>
 
-<h3 align="left">:alien: About Me:  </h3>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Gen AI**. <br>
 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python , My SQL , Machine Learning , PowerBI**. <br>
 
-- 🔭 I’m currently working on **Machine \ Deep learning**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Read my article **[ㄚ卂✨丂卄](https://medium.com/@patilyashodatta)**. <br>
 
-- 🌱 I’m currently learning **Gen AI**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;  Like to meet me?: **(patilyashodatta1999@gmail.com)**<br>
 
-- 💬 Ask me about **Python , My SQL , Machine Learning , PowerBI**
-
-- 📫 How to reach me **patilyashodatt1999@gmail.com**
-
-
-
-- 📚 Projects **Welcome to my portfolio, where I showcase my [projects](https://github.com/Yashodatta15/Project_Portfolio/tree/main)**
-
-<h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me:</h3>
-
-<a href="mailto:patilyashodatta1999@gmail.com">![patilyashodatta1999@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/yashodatta-patil-b76039224/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
-<a href="https://medium.com/@patilyashodatta">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:</h3>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2307405e.svg?style=flat&logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=OpenCV&logoColor=5C3EE8)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-%23F7DC1B.svg?style=flat&logo=Apache%20Hadoop&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=Power%20BI&logoColor=white)
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```python
+
+Yash = {
+    "technologies": {
+        "dataAnalysis": ["Pandas", "NumPy", "Matplotlib", "SciPy"],
+        "machineLearning": ["Scikit-learn", "TensorFlow", "Keras"],
+        "deepLearning": ["ANN", "CNN", "LSTM"],
+        "computerVision": ["OpenCV"],
+        "nlp": ["NLP", "LLM2"],
+        "timeSeries": ["Time Series Analysis"],
+        "databases": ["MySQL", "ChromaDB"],
+        "biTools": ["Power BI", "Excel", "Tableau"],
+        "llmFrameworks": ["LangChain"],
+        "appDevelopment": ["Streamlit"]
+    },
+    "currentFocus": "Building AI/ML models and LLM applications",
+    "funFact": "I turn data into insights while keeping my coffee cup full!"
+}
+```
