@@ -38,9 +38,14 @@
 
 <a href="mailto:patilyashodatta1999@gmail.com">![patilyashodatta1999@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/yashodatta-patil-b76039224/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
-<a href="https://www.kaggle.com/yashodattapatil">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)</a>
 <a href="https://medium.com/@patilyashodatta">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
-<a href="https://www.hackerrank.com/patilyashodatta1">![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)</a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:</h3>
@@ -62,12 +67,4 @@
 
 
 
-###  &nbsp; 👀 Stats: 
-
-</div>
-
-<div align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashodatta15&langs_count=8)](https://github.com/Yashodatta15/github-readme-stats)
-</div>
 
