@@ -45,4 +45,4 @@ Yash = {
     "funFact": "I turn data into insights while keeping my coffee cup full!"
 }
 ```
-<a href="https://linkedin.com/in/yashodattapatil15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashodattapatil15" height="30" width="40" /></a>
+---
