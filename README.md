@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/tkkoPxh0brAAAAAC/typing-anime.gif">
 
 - <img alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" /> &nbsp;  I’m currently working on **Machine \ Deep learning**. <br>
 
